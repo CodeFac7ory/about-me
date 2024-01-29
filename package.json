@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://codefa7tory.github.io/about-me/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +10,6 @@
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "vite": "^4.4.5"
   },
   "dependencies": {
